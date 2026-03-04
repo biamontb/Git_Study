@@ -1,0 +1,9 @@
+---------- How to commit to Github Repository ----------
+1.0 Install Git
+2.0 Clone the repository: git clone [Repository https]
+3.0 Navigate to the Repository Directory: cd [Repository name]
+4.0 Stage/index files (for all files): git add .
+4.1 Stage/index files (for a specific file): git add [file]
+5.0 Commit your changes locally: git commit -m [commit message]
+6.0 Push Commits to the Remote Repository: git push origin [branch name]
+6.1 Push Commits to the Remote Repository: git push -u origin [branch name] (the -u flag sets the upstream branch, allowing future pushes to be a simple "git push")
