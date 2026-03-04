@@ -1,4 +1,4 @@
----------- How to commit to Github Repository ----------
+---------- How to commit to a Github Repository ----------
 1.0 Install Git
 2.0 Clone the repository: git clone [Repository https]
 3.0 Navigate to the Repository Directory: cd [Repository name]
